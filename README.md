@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <h1 align="center">The  Evaluation Framework</h1>
+    <h1 align="center">The LLM Evaluation Framework</h1>
 </p>
 
 <p align="center">
